@@ -1,5 +1,0 @@
-SmartHeater,1
-SmartHeater,2
-SmartHeater,4
-SmartPlug,33
-SmartPlug,78
